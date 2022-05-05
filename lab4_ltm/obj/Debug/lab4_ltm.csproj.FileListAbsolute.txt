@@ -1,0 +1,15 @@
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\bin\Debug\lab4_ltm.exe.config
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\bin\Debug\lab4_ltm.exe
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\bin\Debug\lab4_ltm.pdb
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.csproj.AssemblyReference.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.csproj.SuggestedBindingRedirects.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.lab4_bai1.resources
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.lab4_bai2.resources
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.lab4_bai3.resources
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.lab4_bai4.resources
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.MenuForm.resources
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.Properties.Resources.resources
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.csproj.GenerateResource.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.csproj.CoreCompileInputs.cache
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.exe
+E:\UIT\năm 2\hk-4\LT mang Can ban\TH\lab4_ltm\lab4_ltm\obj\Debug\lab4_ltm.pdb
