@@ -50,6 +50,7 @@
             this.btnGET.TabIndex = 2;
             this.btnGET.Text = "GET";
             this.btnGET.UseVisualStyleBackColor = true;
+            this.btnGET.Click += new System.EventHandler(this.btnGET_Click);
             // 
             // tbContent
             // 
