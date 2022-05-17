@@ -43,6 +43,7 @@
             this.btnPUSH.TabIndex = 3;
             this.btnPUSH.Text = "PUSH";
             this.btnPUSH.UseVisualStyleBackColor = true;
+            this.btnPUSH.Click += new System.EventHandler(this.btnPUSH_Click);
             // 
             // tbContent
             // 
@@ -59,8 +60,10 @@
             this.tbURL.Font = new System.Drawing.Font("Verdana", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbURL.Location = new System.Drawing.Point(32, 15);
             this.tbURL.Name = "tbURL";
+            this.tbURL.ReadOnly = true;
             this.tbURL.Size = new System.Drawing.Size(595, 34);
             this.tbURL.TabIndex = 1;
+            this.tbURL.Text = "http://contoso.com/PostAccepter.aspx";
             // 
             // tbPushContent
             // 
